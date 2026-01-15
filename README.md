@@ -1,6 +1,6 @@
 [![MasterHead](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fraw.githubusercontent.com%2FPolarBearGG%2FPolarBearGG%2Fmaster%2Fweb-developer.gif&f=1&nofb=1&ipt=6c65b64e63c19c5b979cbd578331e30ad987adb187c63ff22954d96e7ad75999&ipo=images)]
 <h1 align="center">Hi 👋, I'm Harsh</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">A Passionate Data Scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
 
