@@ -1,4 +1,4 @@
-[![MasterHead](https://iconscout.com/illustrations/data-analyst)]
+[![MasterHead](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub)]
 <h1 align="center">Hi 👋, I'm Harsh</h1>
 <h3 align="center">A Passionate Data Scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://iconscout.com/illustrations/data-analyst">
